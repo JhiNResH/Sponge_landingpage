@@ -108,7 +108,7 @@ const LandingPage = () => {
           <div className="font-poppins font-[800] text-5xl w-[105vw] absolute top-[120px] left-[-10px] rotate-[-5deg] bg-white uppercase flex items-center py-2">
             <div className="border-black border-y-4 relative overflow-hidden">
               <div className="animate-marquee tracking-wide">
-              First Multi-VM Stablecoin Protocol. First Multi-VM Stablecoin Protocol.
+              First Monetary Layer for SVM. First Monetary Layer for SVM.
               </div>
             </div>
           </div>
