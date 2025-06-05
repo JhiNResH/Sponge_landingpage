@@ -89,7 +89,7 @@ const LandingPage = () => {
               About us
             </Link> */}
             <Link
-              href="https://app.spongehq.xyz/"
+              href="https://svmusd.spongehq.xyz/"
               className="flex font-poppins font-semibold bg-[url('/landing/launch.png')] bg-cover w-[160px] h-[56px] justify-center items-center transition-transform duration-300 hover:scale-105"
             >
               launch app
